@@ -5,7 +5,7 @@
 #include <windows.h>
 #include <time.h>
 
-#include "JEU_QR_LL_BIBLIO.h"
+#include "JEU_QR_BIBLIO.h"
 
 
 listeJoueurs triJoueuersNbPrt(listeJoueurs li)

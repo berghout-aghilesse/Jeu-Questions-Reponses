@@ -4,7 +4,7 @@
 #include <stdbool.h>
 #include <windows.h>
 
-#include "JEU_QR_LL_BIBLIO.h"
+#include "JEU_QR_BIBLIO.h"
 
 
 
